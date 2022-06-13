@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Núria Orgaz</h1>
+<h1 align="center">Hi 🌞, I'm Núria Orgaz</h1>
 <h3 align="center">and I love data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mimikyu8&label=Profile%20views&color=6c91e1&style=flat" alt="mimikyu8" /> </p>
