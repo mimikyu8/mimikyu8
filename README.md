@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mimikyu8&label=Profile%20views&color=6c91e1&style=flat" alt="mimikyu8" /> </p>
 
-- 🔭 I’m currently working on **harm reduction and prevention of wildfires in Spain**
+- 🔭 I’m currently working on [**harm reduction and prevention of wildfires in Spain**]([wip](https://github.com/mimikyu8/Wildfire-harm-reduction))
 
 - 🌱 I’m currently learning **Leetcode, Machine Learning, Big Data**
 
