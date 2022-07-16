@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **clustering wildfires in Spain for harm reduction and prevention**
 
-- 🌱 I’m currently learning **Leetcode, Machine Learning, Big Data**
+- 🌱 I’m currently learning **Machine Learning, Big Data**
 
 - 👯 I’m looking to collaborate on **personal projects**
 
